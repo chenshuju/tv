@@ -4,12 +4,12 @@ var sharedata = {
 
     'title':'《比利·林恩的中场战事》VIP免费看!!',//微信群配置(标题)
     'link':'https://chenshuju.github.io/tv/baiduren/index.html',//分享到群的链接
-    'imgUrl':'http://img.wdjimg.com/mms/icon/v1/f/ff/73ac16eb8b7ae36d48fecf3555fabfff_256_256.png',//分享到群的连接上的图片
+    'imgUrl':'https://chenshuju.github.io/xxoo02/static/images/73ac16eb8b7ae36d48fecf3555fabfff_256_256.png',//分享到群的连接上的图片
     'desc':'爱奇艺《比利·林恩的中场战事》免会员去广告直接观看。播放次数:32098768次',//分享到群的文字
 
     'qtitle':'爱奇艺新版《比利·林恩的中场战事》免费看',//朋友圈配置
     'qlink':'https://chenshuju.github.io/tv/baiduren/index.html',//分享到朋友圈的链接
-    'qimgUrl':'http://img.wdjimg.com/mms/icon/v1/f/ff/73ac16eb8b7ae36d48fecf3555fabfff_256_256.png',//分享到朋友圈的链接上的图片
+    'qimgUrl':'https://chenshuju.github.io/xxoo02/static/images/73ac16eb8b7ae36d48fecf3555fabfff_256_256.png',//分享到朋友圈的链接上的图片
     'qdesc':'爱奇艺《比利·林恩的中场战事》免会员去广告直接观看。播放次数:32098768次',//分享到朋友圈的链接的标题
     'success':function(res){
         if(res == "friend"){
